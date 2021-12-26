@@ -1,0 +1,1 @@
+execute if entity @p[nbt={Inventory:[{id:"minecraft:diamond"}]}] run function banking:deposit_diamond_execute

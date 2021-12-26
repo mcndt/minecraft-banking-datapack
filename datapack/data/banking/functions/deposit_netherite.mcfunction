@@ -1,0 +1,1 @@
+execute if entity @p[nbt={Inventory:[{id:"minecraft:netherite_ingot"}]}] run function banking:deposit_netherite_execute

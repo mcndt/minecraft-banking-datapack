@@ -1,0 +1,1 @@
+give @p paper{display:{Name:'{"text":"Rupees (₹)","color":"#23E878","italic":true}',Lore:['{"text":"Rupees (₹) are fungible value tokens backed by Diamonds.","color":"dark_purple"}','{"text":"Visit a Bank to exchange."}']},CustomModelData:456001} 1
